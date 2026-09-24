@@ -1,6 +1,11 @@
 # BMW Dealer Scoreboard Performance
 
-[BMW Dealer Scoreboard Performance](https://dhanushshruthi27.github.io/bmw_dealer_score_performance/)
+## Documentation
+
+Read the Sphinx documentation for project setup, AWS architecture, operations,
+data scoring, and troubleshooting:
+
+[Open the BMW Dealer Scoreboard Performance documentation](https://dhanushshruthi27.github.io/bmw_dealer_score_performance/)
 
 This project provisions an AWS analytics foundation for calculating dealer performance scores from sales, service, and customer feedback data.
 
@@ -117,17 +122,6 @@ terraform/                AWS infrastructure as code
 README.md                 Setup and execution guide
 README_ARCHITECTURE.md   Project details and architecture
 ```
-
-## Documentation
-
-The full project documentation is available as a Sphinx site. Build it from
-the repository root with:
-
-```powershell
-python -m sphinx -b html docs docs\_build\html -W
-```
-
-Open `docs/_build/html/index.html` after the build completes.
 
 ## Project outputs
 
