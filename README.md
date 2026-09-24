@@ -121,6 +121,7 @@ sql/dealer_score_view.sql Athena view and scoring logic
 terraform/                AWS infrastructure as code
 README.md                 Setup and execution guide
 README_ARCHITECTURE.md   Project details and architecture
+docs/                    Sphinx documentation
 ```
 
 
