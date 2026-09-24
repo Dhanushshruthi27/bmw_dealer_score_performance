@@ -128,7 +128,7 @@ It returns:
 ## Security and operations
 
 - S3 public access is blocked.
-- S3 server-side encryption uses SSE-S3 (`AES256`).
+- S3 server-side encryption uses SSE-S3.
 - Glue receives an IAM role for S3, Glue Catalog, and Athena operations required by the crawler.
 - Terraform applies default `Project`, `Environment`, and `ManagedBy` tags.
 - The bucket is configured with `force_destroy = false` to reduce the risk of deleting stored data unintentionally.
