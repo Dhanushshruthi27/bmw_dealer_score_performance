@@ -39,7 +39,7 @@ AWS components
      - Stores source CSV files and Athena query results. Public access is blocked and SSE-S3 encryption is enabled.
      - Terraform
    * - AWS Glue database
-    - Provides the catalog namespace ``bmw_dealer_score_performace_db``.
+     - Provides the catalog namespace ``bmw_dealer_score_performace_db``.
      - Terraform
    * - Glue ``dealer`` table
      - Stores the dealer master schema and points to ``datasets/dealer/``.
