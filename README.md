@@ -1,5 +1,7 @@
 # BMW Dealer Scoreboard Performance
 
+[BMW Dealer Scoreboard Performance](https://dhanushshruthi27.github.io/bmw_dealer_score_performance/)
+
 This project provisions an AWS analytics foundation for calculating dealer performance scores from sales, service, and customer feedback data.
 
 ## Prerequisites
