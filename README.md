@@ -123,7 +123,4 @@ README.md                 Setup and execution guide
 README_ARCHITECTURE.md   Project details and architecture
 ```
 
-## Project outputs
 
-AWS console screenshots and deployed output evidence are maintained separately
-in [PROJECT_OUTPUTS.md](PROJECT_OUTPUTS.md).
